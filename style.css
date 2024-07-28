@@ -2,3 +2,10 @@ body {
     background-color: rgb(204, 202, 202);
     color: rgb(33, 124, 94);
 }
+h1 {
+    color:blue;
+}
+p {
+    font-family: Verdana;
+    font-size: 15px;
+}
